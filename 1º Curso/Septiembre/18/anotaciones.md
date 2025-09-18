@@ -23,3 +23,7 @@ Siguiendo con la clase, nos contó acerca de la historia del desarrollo de softw
 Aun así nos habló de Charles Babbage, Alan Turing y alguno que otro más, sobre todo nos habló mas del primero por el tema de la Máquina Diferencial, un armatroste de tubos, pero que igual está god. A su véz, continuamos viendo como funcionaba la máquina Enigma, utilizada por la alemania del año del señor del bigote (por no decir la palabra que todos conocemos por si sucede algo) y descifrada por Alan Turing.
 ### EJERCICIO 1 | BUSCAR NOMBRES DE DIFERENTES SOFTWARES Y DE DIFERENTES TIPOS.
 Creo que e título lo dice todo, os dejo el link de mi atea hecha aquí [EJERCICIO 1 CODE](https://github.com/b0rrajo/vitacoradelafp/blob/main/1º%20Curso/Septiembre/18/Ejercicio%201%20CODE.pdf)
+
+## CLASE 3 | SIMF - SISTEMAS INFORMATICOS Y MICROINFORMATICOS
+El tema empieza fuerte sabiendo que se está discutiendo que coño ha pasado con una alumna que pretendía presentar un escrito en direccion acerca de la busqueda de empresa en dual, la compañera ha sido confrontada por la profesora de la materia y se ha montado lío, no se si intervenir sobre que se calmen ambos independientemente de que pase algo a mi persona. Mientras la compañera de al lado (marta) me pidio si le tiraba la piel de plátano que se comió uno mientras miraba la discusion entre la profe y la compañera de antes (ahora se está comendo una naranja), el caso es que se la tiré y me dijo medio en coña que me debe un café, pero yo lo apunto por si acaso es verdad que nunca se sabe xdddd.
+
