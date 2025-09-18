@@ -32,4 +32,4 @@ Al final de la discusión, la profe dice que hablará con los profesores sobre q
 Volviendo al temario de la clase, seguimos con lo de Sistemas informáticos que nos cuenta dicha profe como funciona la arquitectura de Von Neumann, lo de Unidad aritmetico-lógica y todo ese petate gordo, tambien lo de que forma la placa base y ciertos componentes como la BIOS, CMOS, lo que es la RAM, la ROM, etc.....
 En cuanto a tarea nos dejó un documento algo extenso pero qwue igual hay que completarlo, donde tenemos algo a rellenar en cuadros y un pequeño cuestionario a hacer.
 ### EJERCICIO 1 | CUESTIONARIO Y DIBUJOS A RELLENAR QUE NOS PUSO EN MICROSOFT WORD (luego yo lo pasé a PDF)
-El titulo dice todo pero para indicar que es, nos puso un dibujo de lo de Von Neumann para completar y luego el cuestionario de opción múltiple, os dejo la tarea aquí [EJERCICIO 1 SIFM]()
+El titulo dice todo pero para indicar que es, nos puso un dibujo de lo de Von Neumann para completar y luego el cuestionario de opción múltiple, os dejo la tarea aquí [EJERCICIO 1 SIFM](https://github.com/b0rrajo/bitacoradelafp/blob/main/1º%20Curso/Septiembre/18/EJERCICIO%201%20SINF.pdf)
