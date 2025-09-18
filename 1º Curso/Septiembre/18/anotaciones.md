@@ -12,4 +12,4 @@ En cuanto a como conectar las de CSS es ```"<link rel="stylesheet" href="styles.
 Y ya nos mandan a hacer el primer ejercicio VAMOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 ### EJERCICO 1 | Aprender a utilizar las etiquetas, títulos, subtítulos y párrafos
 Aqui el profe se emocionó y quiso ponerse con lo de los ```"<hr>; <p>; <br>; etc..."```, asique como yo ya vengo con algo de base, me animé a tambien ponerle un poco de color al parrafo que tiene el famoso "Lorem Ipsum", a su vez tambien nos pidio que le pongamos la <i>cursiva</i> para darle un foque "Fancy".
-Os dejo lo que hice aqui cargado [EJERCICIO 1]()
+Os dejo lo que hice aqui cargado [EJERCICIO 1](https://github.com/b0rrajo/vitacoradelafp/blob/main/1º%20Curso/Septiembre/18/Ejercicio1.html)
