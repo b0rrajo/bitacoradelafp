@@ -17,4 +17,4 @@ Os dejo lo que hice aqui cargado [EJERCICIO 1 LMSGI](https://github.com/b0rrajo/
 ## CLASE 2 | CODE - CONTORNOS DE DESARROLLO
 En esta materia continuamos con lo que nuestro profesor nos estaba explicando en la sesión anterior. Como tal no dejó tarea pero me adelanté a hacerla porque asi ya pasaba de hacer nada, en parte hay veces que se enrrollan tanto que sinceramente aprovecho más mi tiempo en Discord con mis amigos.
 ### EJERCICIO 1 | BUSCAR NOMBRES DE DIFERENTES SOFTWARES Y DE DIFERENTES TIPOS
-Creo que e título lo dice todo, os dejo el link de mi atea hecha aquí [EJERCICIO 1 CODE]()
+Creo que e título lo dice todo, os dejo el link de mi atea hecha aquí [EJERCICIO 1 CODE](https://github.com/b0rrajo/vitacoradelafp/blob/main/1º%20Curso/Septiembre/18/Ejercicio%201%20CODE.pdf)
