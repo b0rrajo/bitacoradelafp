@@ -18,5 +18,8 @@ Os dejo lo que hice aqui cargado [EJERCICIO 1 LMSGI](https://github.com/b0rrajo/
 En esta materia continuamos con lo que nuestro profesor nos estaba explicando en la sesión anterior. Como tal no dejó tarea pero me adelanté a hacerla porque asi ya pasaba de hacer nada, en parte hay veces que se enrrollan tanto que sinceramente aprovecho más mi tiempo en Discord con mis amigos.
 
 El profesor nos empezó a contar los diferentes tipos de software: Sitema, programacion, aplicacion...... demasiados. Aunque le tenga que hacer caso, literalmente pasé, pero no tanto; mientras me llegó una notificacion al AbalarMovil sobre que pusieron el nuevo club de lectura. Cosa que puede que me apunte, todo depende.
-### EJERCICIO 1 | BUSCAR NOMBRES DE DIFERENTES SOFTWARES Y DE DIFERENTES TIPOS
+
+Siguiendo con la clase, nos contó acerca de la historia del desarrollo de software pero tambien discrepó en que en cuanto a "proyectos grandes, equipos grandes" no es cierto porque por ejemplo el Stardew Valley y Balatro no son equipos grandes y son un éxito, simplemente necesitas una computadora, un IDE y saber hacer las cosas, algo totalmente cierto.
+Aun así nos habló de Charles Babbage, Alan Turing y alguno que otro más, sobre todo nos habló mas del primero por el tema de la Máquina Diferencial, un armatroste de tubos, pero que igual está god.
+### EJERCICIO 1 | BUSCAR NOMBRES DE DIFERENTES SOFTWARES Y DE DIFERENTES TIPOS.
 Creo que e título lo dice todo, os dejo el link de mi atea hecha aquí [EJERCICIO 1 CODE](https://github.com/b0rrajo/vitacoradelafp/blob/main/1º%20Curso/Septiembre/18/Ejercicio%201%20CODE.pdf)
