@@ -1,4 +1,4 @@
-# VITÁCORA DE LA FP - DÍA 1 - 18/09/2025
+# BITÁCORA DE LA FP - DÍA 1 - 18/09/2025
 Hoy empezamos fuerte y sin haber comido, no es coña porque literalmente me desperté como a las 12 y media del mediodía. empezamos fuerte
 
 ## CLASE 1 | LENGUAJE DE MARCAS Y SISTEMAS DE GESTIÓN DE LA INFORMACIÓN - LMGSI
