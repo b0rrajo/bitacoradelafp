@@ -34,6 +34,7 @@ Volviendo al temario de la clase, seguimos con lo de Sistemas informáticos que 
 En cuanto a tarea nos dejó un documento algo extenso pero qwue igual hay que completarlo, donde tenemos algo a rellenar en cuadros y un pequeño cuestionario a hacer.
 
 <h4>HORA POSTERIOR AL RECREO</h4>
-Durante esta hora estuvimos corrigiendo la tarea que nos mandó hacer antes del recreo, si hay cosas que están mal,
+Durante esta hora estuvimos corrigiendo la tarea que nos mandó hacer antes del recreo, si hay cosas que están mal disculpenme, lo subí antes de que corrigesemos.
+
 ### EJERCICIO 1 | CUESTIONARIO Y DIBUJOS A RELLENAR QUE NOS PUSO EN MICROSOFT WORD (luego yo lo pasé a PDF)
 El titulo dice todo pero para indicar que es, nos puso un dibujo de lo de Von Neumann para completar y luego el cuestionario de opción múltiple, os dejo la tarea aquí [EJERCICIO 1 SIFM](https://github.com/b0rrajo/bitacoradelafp/blob/main/1º%20Curso/Septiembre/18/EJERCICIO%201%20SINF.pdf)
