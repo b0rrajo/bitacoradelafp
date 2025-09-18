@@ -27,3 +27,9 @@ Creo que e título lo dice todo, os dejo el link de mi atea hecha aquí [EJERCIC
 ## CLASE 3 | SIMF - SISTEMAS INFORMATICOS Y MICROINFORMATICOS
 El tema empieza fuerte sabiendo que se está discutiendo que coño ha pasado con una alumna que pretendía presentar un escrito en direccion acerca de la busqueda de empresa en dual, la compañera ha sido confrontada por la profesora de la materia y se ha montado lío, no se si intervenir sobre que se calmen ambos independientemente de que pase algo a mi persona. Mientras la compañera de al lado (marta) me pidio si le tiraba la piel de plátano que se comió uno mientras miraba la discusion entre la profe y la compañera de antes (ahora se está comendo una naranja), el caso es que se la tiré y me dijo medio en coña que me debe un café, pero yo lo apunto por si acaso es verdad que nunca se sabe xdddd.
 
+Al final de la discusión, la profe dice que hablará con los profesores sobre que afianzará los conceptos para todas las materias y tal y tambien el tema de que con las empresas de dual, que no nos preocupemos que estan buscando todo. Esto me da a mi que va a acabar mal no, lo siguente a mal. PEOR
+
+Volviendo al temario de la clase, seguimos con lo de Sistemas informáticos que nos cuenta dicha profe como funciona la arquitectura de Von Neumann, lo de Unidad aritmetico-lógica y todo ese petate gordo, tambien lo de que forma la placa base y ciertos componentes como la BIOS, CMOS, lo que es la RAM, la ROM, etc.....
+En cuanto a tarea nos dejó un documento algo extenso pero qwue igual hay que completarlo, donde tenemos algo a rellenar en cuadros y un pequeño cuestionario a hacer.
+### EJERCICIO 1 | CUESTIONARIO Y DIBUJOS A RELLENAR QUE NOS PUSO EN MICROSOFT WORD (luego yo lo pasé a PDF)
+El titulo dice todo pero para indicar que es, nos puso un dibujo de lo de Von Neumann para completar y luego el cuestionario de opción múltiple, os dejo la tarea aquí [EJERCICIO 1 SIFM]()
