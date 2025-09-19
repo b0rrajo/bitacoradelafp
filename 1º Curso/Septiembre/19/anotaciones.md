@@ -22,3 +22,17 @@ En cuanto a las otras tareas que eran words y PDFs tendré que volver a leerme e
 
 1. ## CLASE 1 | BASES DE DATOS - BSD
 <h4>PRIMERA HORA</h4>
+Como dije en mi anterior nota de la Bitácora, la profe empezó a preguntar acerca de si ibamos o no muy rápido y luego se puso a pasar lista para cargar las faltas en Xade (Xestion Administrativa de Eduacion, una APP de la Xunta). Al margen de esto, se puso a explicarnos acerca de que vamos a pasarnos a una base de datos de 2 tablas, osea al gestor. No le entendí muy bien a que se refería.
+
+
+<img width="492" height="329" alt="image" src="https://github.com/user-attachments/assets/c523fe0b-f32b-4836-aa52-8f0328a65ee9" align="right" />
+Bueno, nos ha comentado acerca de MySQL Workbench 8 y practicamente nos estuvo explicando sobre la interfaz de la misma la cual no me he enterado de nada pero nos puso a hacer ya la primera tabla del gestor y su diagrama. Bueno lo de diagrama no pero si lo de aprender a crear bases de datos y las primeras tablas, así como los comandos base.
+
+<h4>SEGUNDA HORA</h4>
+No hicimos nada importante.
+
+### EJERCICIO 1 | CREAR BASE DE DATOS Y TABLA
+No os puedo subir la tabla pero os dejo la imagen que esta arriba
+
+2. ## CLASE 2 | PROGRAMACIÓN - PROG
+3. 
