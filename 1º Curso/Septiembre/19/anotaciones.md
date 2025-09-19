@@ -13,7 +13,7 @@ Continuando con el resto del código que aprendí ayer tenemos al HTML (ya se qu
 
 Esto lo hice en VS CODE aunque el quiere que utilicemos Notepad++ pero a mi gusto y como lo estoy haciendo en mi casa, voy a usar VS CODE. Aparte de que tambien te facilita    la vida, y no precisamente por copilot que ni lo uso mas que nada porque me da más trabajo que soluciones, sino porque hay cosas que te ayuda como por ejemplo a la hora de     aplicar los estilos como tener tu propio selector de color sin tener que saberte los codigos HEX RGB u similares
 
-<img width="338" height="408" alt="image" src="https://github.com/user-attachments/assets/44f453a4-6536-4e74-85bf-e11c1287931f" align="right" />
+<img width="338" height="408" alt="image" src="https://github.com/b0rrajo/bitacoradelafp/blob/main/imágenesbitácora/491566478-44f453a4-6536-4e74-85bf-e11c1287931f.png" align="right" />
 Aparte de lo dicho, tambien hay otras cosas por las que me gusta mas VSCODE y eso es el hecho lo de los hacentos y otros tipos de simbolos que con Notepad++ es un cristo de poner y configurar. Otro es el hecho de que vscode (como ya dije en mi anterior Bitácora) ya integra todos los lenguajes, lo que hace mas facil incluir CSS o JavaScript si es necesario.
 
 Al margen de mis decisiones sobre que IDE es mejor, me he tomado la libertad de recuperar conocimiento utilizando el Stile como dije anteriormente, os dejo aquí el [link](https://github.com/b0rrajo/bitacoradelafp/blob/main/1º%20Curso/Septiembre/19/repaso/repaso%20html.html) por si quereis verlo.
