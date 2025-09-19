@@ -35,4 +35,14 @@ No hicimos nada importante.
 No os puedo subir la tabla pero os dejo la imagen que esta arriba
 
 2. ## CLASE 2 | PROGRAMACIÓN - PROG
-3. 
+Seguimos con la clase de programacion con lo mismo donde lo dejamos, de esta me dejaron un pequeño boletin que no se tiene que entregar hasta el 7 de octubre pero que ya voi a ir haciendo.
+
+Esta es la tarea en cuestion
+<img width="1296" height="421" alt="image" src="https://github.com/user-attachments/assets/a3da10a5-ad30-4931-b080-c2c5e34cc45b" align="center" />
+
+y todo lo que hice os lo dejo aquí en un ZIP porque subir todos los archivos de golpe es una matada bestial.
+### EJERCICIO 1 | LA TAREA DEL 7 DE OCTUBRE
+Aqui el link a la tarea:
+**[LINKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK]()**
+
+XD
