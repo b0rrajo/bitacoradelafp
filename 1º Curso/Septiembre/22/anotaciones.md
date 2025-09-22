@@ -23,3 +23,12 @@ Tras esto, nos siguió enseñando como crear nuestra propia platilla en Eclipse,
 Despues de esto, nos lanzamos a programar sencillo a modo esto:
 
 <img align="center" width="781" height="649" alt="image" src="https://github.com/user-attachments/assets/35d11bfb-bc54-4745-ad98-28a90a503f51" />
+
+Si, es muy parecido a lo de la semana pasada pero el profesor no avanza mucho más, supongo que si quiero prepararme bien al ritmo que voy, debo hacerlo por mi cuenta, menos mal que dejó documentacion de java sobre lo que hace cada cosa del codigo.
+A su vez me acabo de dar cuenta que hay que hacer un boletin de tareas que dejó el progesor en el aula virtual (Man acabo de darme cuenta que puedo escribir sin mirar el teclado, me cuesta pero oye, QUE GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOODDDDDDDDDDDD).
+
+EL CASO, os dejo todo lo que valla haciendo de todo luego en un zip si me acuerdo XD
+
+### EJERCICIO 1 | EL ZIP QUE OS ACABO DE DECIR
+
+Aquí el link del mísmo: [LINK]()
