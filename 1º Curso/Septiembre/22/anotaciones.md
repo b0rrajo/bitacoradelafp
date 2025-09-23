@@ -6,9 +6,9 @@ En el dia de hoy empezamos ligero ya que nos hemos puesto a revisar (para alguno
 
 A su vez nos estuvo explicando acerca de como se distribullen las tareas antiguamente los chipsets (lo de puente norte y puente sur)
 ### EJERCICIO 1 | COMPLETAR EL WORD
-Os dejo lo que fui haciendo aquí (no está completo, pero prometo acabarlo) [link a la tarea]()
+Os dejo lo que fui haciendo aquí (no está completo, pero prometo acabarlo) [link a la tarea](https://github.com/b0rrajo/bitacoradelafp/blob/main/1º%20Curso/Septiembre/22/Placas%20base%2C%20pendiente%20de%20acabar.zip)
 
-## CLASE 2 - ITINERARIO PROFESIOBAL PARA LA EMPLEABILIDAD - IPE
+## CLASE 2 - ITINERARIO PROFESIONAL PARA LA EMPLEABILIDAD - IPE
 Os lo resumo, nos dijo que dejásemos el pc para que le atendiesemos a la explicacion, lo que provocó que parte de mi cerebro disociase en la libreta que traigo siempre para dibujar y la otra mitad, atendiese a su clase en la cual aprendimos sobre la prevención de riesgos laborales, sus diferentes tipos y clasificacion
 
 No dejó tarea como tal pero si en el aula virtual, igualmente en casa le echaré un vistazo.
@@ -31,4 +31,7 @@ EL CASO, os dejo todo lo que valla haciendo de todo luego en un zip si me acuerd
 
 ### EJERCICIO 1 | EL ZIP QUE OS ACABO DE DECIR
 
-Aquí el link del mísmo: [LINK]()
+Aquí el link del mísmo: [LINK](https://github.com/b0rrajo/bitacoradelafp/blob/main/1º%20Curso/Septiembre/22/Problamas%20java%20que%20nos%20manda%20hacer%20este%20señor.zip)
+
+## FINAL DEL DÍA
+Despues de todas las clases y una vez acabado este lunes, solo me queda decir que hasta la proxima.
